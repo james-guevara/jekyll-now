@@ -1,7 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 'Hello, World!'
+published: true
 ---
+
+Welcome to my blog! I'll be talking about things like machine learning, neuroscience, computer science, statistics, philosophy, physics, etc.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
