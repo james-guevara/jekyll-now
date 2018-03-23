@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## General Game Playing with Schema Networks (by Vicarious)
 
@@ -28,5 +28,3 @@ The work also, in my view, serves as a bridge between machine learning and cogni
 I think the deep learning paradigm is here to stay (based on some neuroscience stuff), and will be integrated with things like schema networks, knowledge graphs (via GCNs perhaps?), "intuitive physics engines", memory networks, neural Turing machines, attention, predictive processing, and other inductive priors. I hope to go over all this stuff in later posts.
 
 Anyway, here's their paper: [Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics](https://arxiv.org/abs/1706.04317)
-
-
