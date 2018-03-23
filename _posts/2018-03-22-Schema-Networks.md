@@ -3,7 +3,7 @@ published: false
 ---
 ## General Game Playing with Schema Networks (by Vicarious)
 
-An interesting model [General Game Playing with Schema Networks](https://www.vicarious.com/2017/08/07/general-game-playing-with-schema-networks/). 
+An interesting model: [General Game Playing with Schema Networks](https://www.vicarious.com/2017/08/07/general-game-playing-with-schema-networks/). 
 
 The article gives a good overview, but essentially a "schema network" is a generative graphical models that models various things in an environment as schemas. 
 
