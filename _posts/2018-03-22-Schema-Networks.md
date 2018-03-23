@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## General Game Playing with Schema Networks (by Vicarious)
 
