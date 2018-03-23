@@ -6,7 +6,7 @@ layout: post
 
 An interesting model: [General Game Playing with Schema Networks](https://www.vicarious.com/2017/08/07/general-game-playing-with-schema-networks/). 
 
-The article gives a good overview, but essentially a "schema network" is a generative graphical models that models various things in an environment as schemas. 
+The article gives a good overview. Essentially a "schema network" is a generative graphical models that models various things in an environment as schemas. 
 
 When playing a new game, a person develops a conceptual understanding of the game. So when someone plays Breakout for the first time, they interpret the pixels of the game in terms of prior experience, e.g. "a red ball bounces between the sides of the screen" (rather than "a bunch of pixels flickering on the screen"). They also notice things like how the bricks disappear when the ball hits them, and how this leads to numbers on the screen increasing (i.e. a reward). They notice how the game ends when the ball falls under the paddle. This data and the prior experience tells the person what the goal is in relatively few frames.
 
